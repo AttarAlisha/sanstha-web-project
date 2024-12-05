@@ -9,8 +9,4 @@ This project is a dynamic website designed for the management and representation
 - **Admin Section**: Manage members, services, and more.
 - **Member Sections**: Includes pages for sadsya (members), sevak (volunteers), and sanchalak (leaders).
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AttarAlisha/sanstha-web-project.git
